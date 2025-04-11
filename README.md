@@ -1,0 +1,2 @@
+# Playwright
+Basic Playwright functionalities 
